@@ -5,6 +5,12 @@
 
 The Volleyball Event Management System is a full-stack web platform designed to manage volleyball events. The system supports user registration (with profile images), team creation and management (with a six-player cap per team), and event scheduling with key details such as location, time, price (per team or per individual), and event skill level (e.g., AA, A, BB, B, C). Users can browse events publicly, but must register to participate, while administrators have control over event creation, cancellations, and participant management (including the ability to remove users or teams).
 
+##Problem Statement:
+
+In my personal experience playing sports across various leagues and teams, I’ve noticed a significant gap in how volleyball events are managed and promoted. Most volleyball leagues rely on word-of-mouth or fragmented communication channels, which means many interested participants remain unaware of upcoming events. This lack of a centralized, user-friendly platform not only hampers community engagement but also creates inefficiencies in organizing teams and managing event logistics.
+
+Our Volleyball Event Management System addresses this issue by providing a centralized, full-stack web platform that simplifies event scheduling, registration, and team management. By leveraging modern web technologies and a robust database, our solution ensures that volleyball events are widely accessible and efficiently managed. This platform not only improves communication within the volleyball community but also encourages greater participation and fosters stronger community engagement.
+
 ## Core Functionalities
 
 - **User Management:**
